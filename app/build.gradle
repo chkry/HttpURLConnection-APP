@@ -5,7 +5,7 @@ android {
     buildToolsVersion '25.0.0'
 
     defaultConfig {
-        applicationId "com.chkry.loginapp"
+        applicationId "com.chkry.htmlurlconnection"
         minSdkVersion 16
         targetSdkVersion 23
         versionCode 1
